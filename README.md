@@ -24,10 +24,7 @@ Insights and recommendations are provided on the following key areas :
 
 - **Top 10 Customers by Profit**: A detailed breakdown of the top 10 most profitable customers, showcasing their contribution to overall business profitability.
 
-Detailed Resources: 
-
-- The Pre-Processing process utilized can be found [here](https://github.com/karlyndiary/Sales-and-Customer-Performance-Dashboard/blob/main/Pre-Processing%20%26%20Calculated%20Fields.md). 
-- An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/SalesCustomerPerformanceDashboard_17313759409300/SalesDashboard?publish=yes).
+ 
 
 # Data Structure
 
@@ -41,7 +38,7 @@ Sales and Customer's database structure as seen below consists of four tables: o
 
 In November 2023, the company recorded its highest sales of the year, with 1,840 units sold, generating $118.45K in revenue and $14.45K in profit. The Phones sub-category saw significant growth, with a 33% increase in sales, while the Fasteners sub-category experienced a decline in sales. Customer metrics showed 216 customers, averaging $1,058 in sales per customer, with Raymond Buch being the top customer with $14,203 in sales. Week 49 recorded the highest weekly sales, while Week 21 saw the lowest.
 
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/SalesCustomerPerformanceDashboard_17313759409300/SalesDashboard?publish=yes).
+Below is the overview page from the Tableau dashboard and more examples are included throughout the report. 
 
 ### Sales Dashboard
 - **Monthly Sales Performance**: November 2023 was a standout month, with sales reaching their highest level of the year. The company sold 1,840 quantity, generating $118.45K in revenue and a profit of $14.45K, underscoring the month’s strong sales momentum and profitability.
